@@ -1,12 +1,9 @@
 ﻿## Installation
 
-```bash
-docker-compose up --build  
-```
 
 * Install [Composer](https://getcomposer.org/download) and [Npm](https://nodejs.org/en/download)
-* Clone the repository: `git clone https://github.com/akaunting/akaunting.git`
-* Install dependencies: `composer install ; npm install ; npm run dev`
+* Clone the repository: `git clone https://github.com/walidbtz7/akaunting.git`
+* Install dependencies: `docker-compose up --build  `
 * Install Akaunting:
 
 ```bash
