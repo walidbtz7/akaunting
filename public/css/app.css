@@ -62585,10 +62585,6 @@ body{
   background-size: 100% 2px;
 }
 
-.hover\:font-bold:hover{
-  font-weight: 700;
-}
-
 .hover\:font-medium:hover{
   font-weight: 500;
 }
@@ -62814,10 +62810,6 @@ body{
 }
 
 .group\/tooltip:hover .group-hover\/tooltip\:opacity-100{
-  opacity: 1;
-}
-
-.group:hover .group-hover\:opacity-100{
   opacity: 1;
 }
 
